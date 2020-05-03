@@ -9,7 +9,8 @@ Written in: Python<br>
 ## What is qldl?
 qldl is a acronym for Query Link Downloader.<br>
 Here, you get links of images. Later these links are used to download using third party apps.
-
+## Why we use IDM?
+Here we use Internet Download Manager to download with blazing speed. Since it is meant to download, it has tonnes of features to use.
 ## What is it?
 It is a python based downloader used to download high quality images from [www.unsplash.com] official site.
 ## Why is it in python?
