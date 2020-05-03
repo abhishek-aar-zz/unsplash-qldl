@@ -10,7 +10,7 @@ def doThreading(query):
     total_pages = getTotalPages(query, perpage)
     thr=[]
     if numTHREAD < total_pages:
-        XXX = int(TO/numTHREAD)
+        XXX = int(total_pages/numTHREAD)
     else:
         XXX = total_pages
 
