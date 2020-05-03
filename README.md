@@ -8,7 +8,7 @@ Written in: Python<br>
 
 ## What is qldl?
 qldl is a acronym for Query Link Downloader.<br>
-Here, you get links of images. Later this particular links are used to download using third party apps.
+Here, you get links of images. Later these links are used to download using third party apps.
 
 ## What is it?
 It is a python based downloader used to download high quality images from [www.unsplash.com] official site.
@@ -36,8 +36,7 @@ pip install click
 3. Use your url to download as given : 
 <br>`python kindgirls-aldl.py --query [search for something]`<br>For example: <br>
 `python unsplash-qldl.py --query nature`<br>
-<br><br>
-4. OR you can simply do this:<br>`python unsplash-qldl.py`<br>![screenshot]()
+4. OR you can simply do this:<br>`python unsplash-qldl.py`<br>![screenshot](https://github.com/arg-z/unsplash-qldl/blob/master/images/1.PNG?raw=true)
 4. You will get a text file containing urls of the query. Copy the urls to your clipboard.<br>
 5. Open IDM on your computer, go to Tasks >> Add batch download from clipboard >> Select all >> Download<br>
 
