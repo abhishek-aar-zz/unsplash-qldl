@@ -1,5 +1,5 @@
 # unsplash-qldl
-A Query Link Downloader for https://unsplash.com/
+A Query Link Downloader for https://unsplash.com/<br>
 Written in: Python<br>
 *Only for educational purpose*
 
