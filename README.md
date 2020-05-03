@@ -35,7 +35,7 @@ pip install click
 1. Download the files as it is.
 2. Open command prompt from the directory in which your downloaded files are present.
 3. Use your url to download as given : 
-<br>`python kindgirls-aldl.py --query [search for something]`<br>For example: <br>
+<br>`python unsplash-qldl.py --query [search for something]`<br>For example: <br>
 `python unsplash-qldl.py --query nature`<br>
 4. OR you can simply do this:<br>`python unsplash-qldl.py`<br>![screenshot](https://github.com/arg-z/unsplash-qldl/blob/master/images/1.PNG?raw=true)
 4. You will get a text file containing urls of the query. Copy the urls to your clipboard.<br>
