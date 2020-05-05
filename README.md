@@ -34,7 +34,7 @@ pip install click
 ## Download a database related to a query
 1. Download the files as it is.
 2. Open command prompt from the directory in which your downloaded files are present.
-3. Use your url to download as given : 
+3. Use the  given command to download: 
 <br>`python unsplash-qldl.py --query [search for something]`<br>For example: <br>
 `python unsplash-qldl.py --query nature`<br>
 4. OR you can simply do this:<br>`python unsplash-qldl.py`<br>![screenshot](https://github.com/arg-z/unsplash-qldl/blob/master/images/1.PNG?raw=true)
