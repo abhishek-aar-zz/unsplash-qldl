@@ -19,9 +19,9 @@ Since python is one of the programming languages which is very popular and very 
 ----
 
 ## Prerequisite
-Firstly you need python in your computer.<br>
-Download these modules: [requests](https://pypi.org/project/requests/), [Beautifulsoup](https://pypi.org/project/bs4/), [urllibs](https://pypi.org/project/urllib3/), [click](https://pypi.org/project/click/)<br>
-Run the given commands on windows command-line. This instruction is particularly for Windows user. If you use any other machine, please see the documentations of the following modules.
+* Firstly you need python in your computer.<br>
+* Download these modules: [requests](https://pypi.org/project/requests/), [Beautifulsoup](https://pypi.org/project/bs4/), [urllibs](https://pypi.org/project/urllib3/), [click](https://pypi.org/project/click/)<br>
+* Run the given commands on windows command-line. This instruction is particularly for Windows user. If you use any other machine, please see the documentations of the following modules.
 ```Python
 pip install requests
 pip install beautifulsoup4
