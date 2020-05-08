@@ -1,7 +1,11 @@
 # unsplash-qldl
 A Query Link Downloader for https://unsplash.com/<br>
 Written in: Python<br>
-*Only for educational purpose*
+##### ___DISCLAIMER___
+* *This project is done only for __educational purpose__*
+* *If you are interested in creating any web scraper, you can learn through my projects*
+* *I am __not responsible__ for any future __controversies/copyright issues__*
+* *Making use of my project for any __illegal activities__ does not count as my responsibility*
 
 ## Instruction Video on Youtube.
 ###### Shall be released soon.
